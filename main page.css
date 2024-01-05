@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(messi\ bg\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-bottom{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top:44%;
+}
+a {
+    color:beige;
+    text-decoration: none;
+}
+
+.messi-word{
+    margin-top:-30%;
+    margin-left: 5%;
+    color: white;
+    font-family:cursive;
+    font-size: 30px;
+}
+
+.support-icon{
+   margin-top: -31%;
+   margin-left:2%;
+}
+
+.shop{
+    margin-top: -6%;
+    margin-left:8%;
+}
+
+hr{
+    width:30%;
+    margin-left: -3%;
+}
